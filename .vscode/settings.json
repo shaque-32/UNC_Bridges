@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "emojiProjectLibrary.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
