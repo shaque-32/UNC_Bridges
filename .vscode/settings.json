@@ -1,7 +1,8 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "emojiProjectLibrary.jar"
+        "emojiProjectLibrary.jar",
+        "/Users/shayanh/Documents/GitHub/bridgesWorking/**/*.jar"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
