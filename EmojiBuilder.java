@@ -61,17 +61,6 @@ public class EmojiBuilder extends NonBlockingGame {
         setBGColor(4,8, NamedColor.white);
         setBGColor(4,7, NamedColor.red);
 
-        setBGColor(6,5, NamedColor.white);
-        setBGColor(5,6, NamedColor.white);
-        setBGColor(5,5, NamedColor.white);
-        setBGColor(6,6, NamedColor.red);
-
-
-        setBGColor(1,5, NamedColor.white);
-        setBGColor(2,6, NamedColor.red);
-        setBGColor(2,5, NamedColor.white);
-        setBGColor(1,6, NamedColor.white);
-
         //outlining the head of the alien
         setBGColor(0,0, NamedColor.yellow);
         setBGColor(0,1, NamedColor.yellow);
